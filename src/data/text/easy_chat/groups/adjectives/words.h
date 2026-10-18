@@ -1,0 +1,43 @@
+#ifndef DATA_TEXT_EASY_CHAT_GROUPS_ADJECTIVES_WORDS
+#define DATA_TEXT_EASY_CHAT_GROUPS_ADJECTIVES_WORDS
+#if ENGLISH
+u8 gEasyChatGroupWords_Adjectives[] = _(
+                                        "WANDERING$"
+                                        "RICKETY$"
+                                        "ROCK-SOLID$"
+                                        "HUNGRY$"
+                                        "TIGHT$"
+                                        "TICKLISH$"
+                                        "TWIRLING$"
+                                        "SPIRALING$"
+                                        "THIRSTY$"
+                                        "LOLLING$"
+                                        "SILKY$"
+                                        "SADLY$"
+                                        "HOPELESS$"
+                                        "USELESS$"
+                                        "DROOLING$"
+                                        "EXCITING$"
+                                        "THICK$"
+                                        "SMOOTH$"
+                                        "SLIMY$"
+                                        "THIN$"
+                                        "BREAK$"
+                                        "VORACIOUS$"
+                                        "SCATTER$"
+                                        "AWESOME$"
+                                        "WIMPY$"
+                                        "WOBBLY$"
+                                        "SHAKY$"
+                                        "RIPPED$"
+                                        "SHREDDED$"
+                                        "INCREASING$"
+                                        "YET$"
+                                        "DESTROYED$"
+                                        "FIERY$"
+                                        "LOVEY-DOVEY$"
+                                        "HAPPILY$"
+                                        "ANTICIPATION$"
+                                        );
+#endif // GAME_LANGUAGE
+#endif // DATA_TEXT_EASY_CHAT_GROUPS_ADJECTIVES_WORDS

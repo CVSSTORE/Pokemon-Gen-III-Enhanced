@@ -1,0 +1,51 @@
+#ifndef DATA_TEXT_EASY_CHAT_GROUPS_GREETINGS_ORDER
+#define DATA_TEXT_EASY_CHAT_GROUPS_GREETINGS_ORDER
+
+#if ENGLISH
+u16 gEasyChatGroupOrder_Greetings[] = {
+    12,
+    25,
+    32,
+    40,
+    9,
+    41,
+    20,
+    22,
+    13,
+    10,
+    24,
+    16,
+    15,
+    2,
+    3,
+    4,
+    34,
+    14,
+    26,
+    30,
+    37,
+    8,
+    28,
+    18,
+    36,
+    33,
+    29,
+    7,
+    19,
+    21,
+    35,
+    11,
+    17,
+    0,
+    6,
+    23,
+    27,
+    38,
+    5,
+    31,
+    1,
+    39,
+};
+#endif // GAME_LANGUAGE
+
+#endif // DATA_TEXT_EASY_CHAT_GROUPS_GREETINGS_ORDER
