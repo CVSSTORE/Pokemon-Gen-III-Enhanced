@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pokémon Gen 3 Enhanced
+# Pokémon Gen III Enhanced
 
 **An English-only enhancement of Pokémon Ruby and Sapphire (v1.2)**
 
