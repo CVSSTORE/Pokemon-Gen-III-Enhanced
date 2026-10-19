@@ -131,7 +131,7 @@ See [INSTALL.md](INSTALL.md) for more detailed setup instructions.
 
 ## Versions
 
-Each release is tagged with the game name and a version number. `ruby-v1.0` is the first Ruby release and `sapphire-v1.0` is the first Sapphire release. Later updates use `ruby-v1.1`, `sapphire-v1.1` and so on.
+Each release is tagged with the game name and a version number. `Pokémon Ruby Enhanced` is the first Ruby release and `Pokémon Sapphire Enhanced` is the first Sapphire release. Later updates use `PRE-v1.1`, `SRE-v1.1` and so on.
 
 <!--
 ## What does it look like?
