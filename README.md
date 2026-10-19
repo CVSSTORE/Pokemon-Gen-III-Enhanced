@@ -6,9 +6,7 @@
 
 Animated sprites, gym rematches, reusable TMs, forgettable HMs and more.
 
-<p align="center">
-  <img src="showcase.gif" width="100%" alt="Showcase description">
-</p>
+Gif Placement
 
 [![Games](https://img.shields.io/badge/GAMES-RUBY%20%2B%20SAPPHIRE-b22222?style=flat-square)](https://github.com/CVSSTORE/Pokemon-Gen-III-Enhanced/releases)
 [![Version](https://img.shields.io/badge/VERSION-ENGLISH%20v1.2-2e7d32?style=flat-square)](https://github.com/CVSSTORE/Pokemon-Gen-III-Enhanced/releases)
