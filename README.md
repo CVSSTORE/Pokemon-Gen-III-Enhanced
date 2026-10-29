@@ -39,7 +39,7 @@ It supports the **English** versions of both games, revision 2 (v1.2), and is di
 - **Trade Stone.** A new item that evolves every Pokémon that normally needs a trade, with no King's Rock, Metal Coat or Dragon Scale required. It costs ₽2100 and is sold in the Lilycove Department Store (3F and 5F).
 - **Repel prompt.** When a Repel wears off, the game offers to use another one from your bag.
 - **Berry glitch fix.** Always enabled.
-- **FireRed and LeafGreen Poké Ball click sound.**
+- **FireRed and LeafGreen Poké Ball click sound.** Always enabled.
 - **Blue field moves.** Field moves are shown in blue in the party menu, as in Emerald.
 - **PC box scrolling.** L and R scroll the boxes in every button mode.
 - **Updated fonts and title screen.** New font graphics, and edited title screen and copyright images.
