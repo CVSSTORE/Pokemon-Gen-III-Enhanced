@@ -32,6 +32,7 @@ It supports the **English** versions of both games, revision 2 (v1.2), and is di
 ## What this fork adds
 
 - **Animated Pokémon sprites.** Two-frame front sprite animation in battle, the summary screen, the Pokédex, evolution scenes and the party menu.
+- **Custom Sapphire sprites.** Pokémon Sapphire features its own custom sprite recolors.
 - **Capture stars.** A star animation plays on a successful catch, as in Pokémon Emerald, FireRed and LeafGreen.
 - **Gym leader rematches.** After the game is cleared, all eight gym leaders can be fought again with new teams. Each one gives you a held item the first time you win.
 - **Reusable TMs.** TMs work like HMs and are not used up. The quantity is hidden in the bag.
