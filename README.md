@@ -80,6 +80,8 @@ The upstream fork contains extra content that has been removed here on purpose:
 
 Pokémon Sapphire Version now has its own recolored player models for both Brendan and May. In Pokémon Ruby Version, the trainers keep their original red outfits, bandanas and accents. In Pokémon Sapphire Version, those same outfits are recolored to blue, so each game has its own look and matches its version theme. Only the colors are different. Every sprite keeps its original shape, pixels and animation, so Brendan and May look just as they did before, in new colors.
 
+![me](https://github.com/CVSSTORE/Pokemon-Gen-III-Enhanced/blob/main/Updated Player Models.png)
+
 ## How to apply the patch
 
 1. Download the patch for your game from the [Releases](https://github.com/CVSSTORE/Pokemon-Gen-III-Enhanced/releases) page.
